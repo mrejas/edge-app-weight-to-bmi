@@ -1,0 +1,15 @@
+ {
+      "category" : "healthcare",
+      "description" : "Uses body mass and heihgt to calculate BMI.",
+      "name" : "BMI from body mass",
+      "public" : true,
+      "publisher" : {
+         "id" : 1
+      },
+      "short_description" : "Uses body mass and heihgt to calculate BMI.",
+      "source_url" : "",
+      "tags" : [
+		  "education", "demo", "example"
+      ]
+   }
+

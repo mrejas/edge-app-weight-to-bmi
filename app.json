@@ -1,0 +1,29 @@
+{
+  "author": "Marcus Rejås",
+  "licence": "MIT",
+  "input": {
+	  "weight_function": {
+		  "name": "Weight to monitor",
+		  "type": "single_function_selector",
+		  "required": true
+	  },
+	  "height": {
+		  "name": "Height (centimeters)",
+		  "type": "number",
+		  "required": true
+	  }
+  },
+  "guide": [
+    {
+      "id": "stage_1",
+      "title": "Choose weight function and add height?",
+      "description": "Select the function and enter height in centimeters.",
+      "input_fields": [
+		  "weight_function",
+		  "height"
+      ]
+    }
+  ]
+}
+
+
