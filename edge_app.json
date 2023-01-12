@@ -1,15 +1,15 @@
  {
       "category" : "healthcare",
-      "description" : "Uses body mass and heihgt to calculate BMI.",
+      "description" : "Uses body mass and height to calculate BMI.",
       "name" : "BMI from body mass",
       "public" : true,
       "publisher" : {
          "id" : 1
       },
       "short_description" : "Uses body mass and heihgt to calculate BMI.",
-      "source_url" : "",
+      "source_url" : "https://github.com/mrejas/edge-app-weight-to-bmi",
       "tags" : [
-		  "education", "demo", "example"
+		  "healthcare", "weight", "bmi"
       ]
    }
 
